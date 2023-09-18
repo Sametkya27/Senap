@@ -1,0 +1,7 @@
+echo "# @x.samaet._ " >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk kar" 
+git şube -M ana 
+git uzak başlangıç ​​noktası ekle https://github.com/Sametkya27/Senap.git
+ git push - ana menşein sen
